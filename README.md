@@ -14,12 +14,6 @@
 
 ---
 
-## 📸 Demo
-
-> _Coming soon: Add GIF or Streamlit Cloud link if deployed_
-
----
-
 ## 🛠️ Tech Stack
 
 - Python
